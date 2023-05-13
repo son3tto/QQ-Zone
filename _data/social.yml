@@ -1,0 +1,9 @@
+- title: Email
+  url: mailto://zhu.jingwen@foxmail.com
+  icon: fas fa-envelope
+- title: Twitter
+  url: https://twitter.com/son3tto
+  icon: fab fa-twitter
+- title: GitHub
+  url: https://github.com/jingwendom
+  icon: fab fa-github
